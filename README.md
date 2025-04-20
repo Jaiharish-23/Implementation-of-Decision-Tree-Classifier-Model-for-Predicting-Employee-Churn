@@ -36,7 +36,7 @@ Developed by:JAI HARISH R
 
 RegisterNumber:212224040124  
 
-```
+```python
 import pandas as pd
 data = pd.read_csv("Employee.csv")
 data.head()
